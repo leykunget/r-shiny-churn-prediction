@@ -92,8 +92,8 @@ ui <- page_sidebar(
       class = "bg-primary text-white",
       "Customer Churn Prediction Tool"
     ),
-    p("This tool uses machine learning to predict customer churn probability based on various customer attributes and behaviors."),
-    p("Enter customer information in the sidebar to get predictions. The model uses XGBoost algorithm trained on historical customer data.")
+    p("The Customer Churn Prediction Tool is an interactive app built with R Shiny that predicts customer churn probability using the XGBoost algorithm and the tidymodels framework."),
+    p("Enter customer information in the sidebar to receive predictions based on historical customer data.")
   ),
   
   # Prediction boxes with equal width and height
