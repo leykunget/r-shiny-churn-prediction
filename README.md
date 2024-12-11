@@ -1,4 +1,4 @@
-# Customer Churn Prediction App
+# Customer Churn Prediction App (R Shiny App)
 
 ## Overview
 
@@ -40,7 +40,7 @@ shiny::runApp()
 
 ## Deployment
 
-To deploy on Connect Cloud, create a `manifest.json` file with:
+To deploy on [Connect Cloud](https://connect.posit.cloud/), create a `manifest.json` file with:
 ```R
 rsconnect::writeManifest(appFiles = "app.R")
 ```
