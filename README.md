@@ -53,4 +53,4 @@ Enter customer information in the sidebar to get predictions.
 
 Access the app here: [Customer Churn Prediction Tool](https://0193b6f9-2fb2-3ecb-98eb-06390ec0cf9b.share.connect.posit.cloud/)
 
-![customer churn r shiny app](figures/shiny-churn-app.gif)
+![customer churn r shiny app](figures/shiny-churn-pred-app.gif)
