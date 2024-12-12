@@ -2,13 +2,13 @@
 
 ## Overview
 
-The Customer Churn Prediction App is an interactive tool built with R Shiny that predicts customer churn. This application employs the `XGBoost` algorithm, integrated with the `tidymodels` framework, to analyze customer attributes and behaviors, providing insights into churn probability.
+The Customer Churn Prediction App is an interactive tool built with R Shiny that predicts customer churn in the telecommunications sector. This application employs the `XGBoost` algorithm, integrated with the `tidymodels` framework, to analyze customer attributes and behaviors, providing insights into churn probability for subscribers of telecom services.
 
 ## Features
 
 - **User-Friendly Interface**: Enter customer details in the sidebar for churn predictions.
-- **Accurate Predictions**: Powered by a robust XGBoost model trained on historical data.
-- **Interactive Analysis**: Explore how customer attributes affect churn probability.
+- **Accurate Predictions**: Powered by a robust XGBoost model trained on historical customer data from a telecommunications provider.
+- **Interactive Analysis**: Explore how customer attributes, such as service type and contract details, affect churn probability.
 
 ## Getting Started
 
